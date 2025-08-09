@@ -54,11 +54,11 @@ Import it into Postman to test all endpoints with example requests.
 
 ## Deployment
 ## Backend
-Deployed on Railway / Fly.io / Render
+Deployed on Railway
 Make sure environment variables are set correctly (MongoDB URI, JWT secret, etc.)
 
 ## Frontend
-## Deployed on Vercel / Netlify
+## Deployed on Netlify
 Make sure the frontend is configured to use the deployed backend URL (REACT_APP_API_URL).
 
 
