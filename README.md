@@ -5,8 +5,8 @@ This is a full-stack Task Manager app built with the MERN stack (MongoDB, Expres
 Users can register, login, and manage their personal tasks with features like creating, editing, deleting, marking complete, filtering, sorting, and pagination.
 
 ## Live Demo
-- Frontend: (https://frontend-url.com)  
-- Backend API: (https://backend-url.com)
+- Frontend: (https://mytaskdesk.netlify.app)  
+- Backend API: (https://task-manager-backend-production-9c2d.up.railway.app)
 
 ## Features
 - User Authentication (JWT)
